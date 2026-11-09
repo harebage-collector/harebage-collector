@@ -1,12 +1,8 @@
 <img align="right" src="assets/hare-wave.gif" width="150" alt="Camping Hare giving a small wave">
 
-# Hareware
-
-veritas engineer. i make things. occasionally the thing we needed.
+### oh, hey.
 
 bots, little tools, and projects that were considerably smaller when someone explained them to me.
-
-**`works/on-my-machine`** · 🛠️ **while i'm in here...**
 
 <br clear="right">
 
